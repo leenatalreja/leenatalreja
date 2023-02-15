@@ -11,8 +11,8 @@ leenatalreja/leenatalreja is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### Hi there 👋
-[![GitHub Leena](https://img.shields.io/github/followers/abrilurena?label=follow&style=social)](https://github.com/leenatalreja)
-[![Linkedin: Leena Talreja](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-talreja/)](https://www.linkedin.com/in/leena-talreja/)
+[![GitHub Leena](https://img.shields.io/github/followers/leena-talreja?label=follow&style=social)](https://github.com/leenatalreja)
+[![Linkedin: Leena Talreja](https://img.shields.io/badge/-leena%20talreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-talreja/)](https://www.linkedin.com/in/leena-talreja/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leena.id&left_color=green&right_color=blue)
 
 - Pronouns: she/her
